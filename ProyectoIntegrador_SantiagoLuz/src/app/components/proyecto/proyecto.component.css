@@ -1,0 +1,25 @@
+.row{
+    padding: 20px;
+    background-color: #e7e7e7;
+}
+
+.contenedor{
+    width: auto;
+}
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    box-shadow: 10px 10px 30px #000000;
+   
+}
+.h1, .nombre{
+    font-family: sans-serif;
+}
+
+.nombre{
+    font-size: 30px;
+}

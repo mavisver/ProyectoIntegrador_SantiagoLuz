@@ -3,9 +3,14 @@
 }
 
 div{
-    background: #a1b5cb;
+    background: #e7e7e7 ;
 }
 
 h1, h3{
+    font-family: sans-serif;
     display: inline;
+}
+
+.titulo{
+    font-size: 30px;
 }
